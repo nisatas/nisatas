@@ -17,3 +17,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nisatas&" alt="nisatas" /></p>
 
+![snake gif](https://github.com/nisatas/nisatas/blob/output/github-contribution-grid-snake.gif)
