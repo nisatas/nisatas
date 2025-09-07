@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nisa</h1>
-<h3 align="center">I'm currently educated at Istanbul Universty-Cerrahpasa.</h3>
+<h3 align="center">I'm currently educated at Istanbul University-Cerrahpasa.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
